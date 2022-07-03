@@ -34,7 +34,6 @@ set laststatus=2
 set wildmode=list:longest
 " カラースキーマの設定
 set background=dark
-colorscheme molokai
 set t_Co=256
 syntax on
 " 折り返し時に表示行単位での移動できるようにする
